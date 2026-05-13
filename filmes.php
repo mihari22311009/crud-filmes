@@ -4,7 +4,8 @@ $filmes = [
     ["id" => 1, "titulo" => "Matrix",          "ano" => 1999, "genero" => "Ficção Científica"],
     ["id" => 2, "titulo" => "O Poderoso Chefão","ano" => 1972, "genero" => "Drama"],
     ["id" => 3, "titulo" => "Interestelar",     "ano" => 2014, "genero" => "Ficção Científica"],
-    ["id" => 4, "titulo" => "Parasita",         "ano" => 2019, "genero" => "Drama"]
+    ["id" => 4, "titulo" => "ta dando onda",     "ano" => 2007, "genero" => "comedia"],
+    ["id" => 5, "titulo" => "Parasita",         "ano" => 2019, "genero" => "Drama"],
 ];
 
 
